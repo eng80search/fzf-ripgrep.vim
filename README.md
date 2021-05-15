@@ -65,7 +65,7 @@ Plug 'wookayin/fzf-ripgrep.vim'
 License
 -------
 
-The MIT License (c) 2020 Jongwook Choi (@wookayin)
+The MIT License (c) 2021 eng80search
 
 [fzf]:            https://github.com/junegunn/fzf
 [fzf.vim]:        https://github.com/junegunn/fzf.vim
