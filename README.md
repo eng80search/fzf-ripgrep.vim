@@ -58,7 +58,7 @@ opts:
 ### Installation
 
 ```vim
-Plug 'wookayin/fzf-ripgrep.vim'
+Plug 'eng80search/fzf-ripgrep.vim'
 ```
 
 
